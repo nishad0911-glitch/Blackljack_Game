@@ -1,2 +1,2 @@
-# Blackljack_Game
+# Blackjack_Game
 Python game
